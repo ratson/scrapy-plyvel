@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "scrapy-plyvel"
-version = "0.1.0"
+version = "0.1.1"
 description = "Scrapy cache storage using plyvel"
 authors = ["Ratson <github@ratson.name>"]
 license = "MIT"
